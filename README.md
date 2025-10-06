@@ -1,6 +1,6 @@
 # Free-Chat RPG
 
-A console-based persuasion RPG driven by the GPT API. Players describe a world, negotiate with NPCs through free-form chat, and watch the scenario branch according to their successes, failures, and compromises.
+A console-based persuasion RPG. Players describe a world, negotiate with NPCs through free-form chat, and watch the scenario branch according to their successes, failures, and compromises.
 
 ## Quick Start
 
